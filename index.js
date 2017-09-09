@@ -1,1 +1,1 @@
-function parseInt(n, 10);
+function parseInt('n', 10);
