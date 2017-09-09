@@ -1,3 +1,3 @@
 function parseInt(n, 10) {
-console.log (parseInt('n'))
+console.log(parseInt('n'))
 }
