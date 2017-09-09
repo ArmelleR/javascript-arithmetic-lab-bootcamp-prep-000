@@ -21,9 +21,9 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n+=;
+  return n += 1;
 }
 
 funtion dec(n) {
-  return n-=;
+  return n -= 1;
 }
